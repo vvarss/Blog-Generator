@@ -1,1 +1,1 @@
-# Blog-Generator
+# Blog-Content-Writer
