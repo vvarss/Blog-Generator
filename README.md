@@ -24,3 +24,6 @@ OPENAI_API_KEY="YOUR_API_KEY"
 
 * We get this result, for the prompt we gave.
 <img width="1000" height="615" alt="image" src="https://github.com/user-attachments/assets/1755d9f5-9706-4ed8-ab75-51a28647b121" />
+
+* Apart from using a typed-in prompt, we can also use a user-input given prompt.
+<img width="1000" height="462" alt="image" src="https://github.com/user-attachments/assets/6a00bf71-203a-43a4-b8be-a58a4d3b93b2" />
